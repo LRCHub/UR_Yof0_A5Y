@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "乾坤イッテキ！",
+  "base_artist": "暁Records",
+  "createdAt": "2026-03-19T05:05:33.029262Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乾坤イッテキ!",
+      "artist": "暁Records",
+      "has_synced": false,
+      "path": "select/pl_01_乾坤イッテキ!_暁Records.txt"
+    }
+  ]
+}
